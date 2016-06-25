@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">B19_BroadcastReceiver</string>
+    <string name="sendBroadcastString">Send Broadcast</string>
+</resources>
